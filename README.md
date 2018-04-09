@@ -8,6 +8,7 @@ A two player iOS game developed using SpriteKit.
 * Long press timer to exit game
 
 
+### Screenshots:
 iPhone 6 Plus | iPad pro 9.7
 ------------- | ------------
-![GitHub Logo](/screenshots/iphone.png); Format: ![Alt Text](url) | abs
+![iPhone](/Screenshots/iphone.png) | ![iPad](/Screenshots/ipad.png)
